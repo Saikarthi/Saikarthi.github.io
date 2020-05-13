@@ -1,0 +1,50 @@
+X & O
+------------------------------------------
+learn purpose
+arcade games
+full code
+from scratch
+improve - AI
+fully constructed on if else
+online multiplier
+switch players as well as computers
+certain points to win
+
+Legzoid
+------------------------------------------
+
+Unity network 
+players can play from two diff computers if they are on same network
+respawning
+certain points to win in certain points
+Fly unlimited
+Play only with single gun - bullets limit
+diff colors for diff theme
+
+
+Slide Run
+------------------------------------------
+
+FPP awa TPP
+endless game
+points according to distance
+miss track , obstacle game over
+can't jump
+obstacle are created according to player position 
+Bugs
+
+Color
+-----------------------------------------
+
+3 track, G R B
+Obs G R B
+5 secs once change color Ball
+You should go in the according to the ball color
+There's no off track and no jump
+10 seconds once change color 
+Created 15 levels and make it as a loop for a endless experience
+We can compete with our friends
+points 1000
+same in same 100
+if 5 seconds in same color track would increse the total points by 10
+same in diff 500
