@@ -800,7 +800,7 @@ fieldset {
   }
   #home,
   .container {
-    height: 600px !important;
+    /* height: 600px !important; */
   }
   .about-border {
     width: 265px;
