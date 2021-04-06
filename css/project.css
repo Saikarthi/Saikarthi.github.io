@@ -1,0 +1,45 @@
+.project .col-md-12 {
+  text-align: center;
+}
+
+.project .col-md-12 h2 {
+  font-size: 58px;
+  font-weight: 600;
+  letter-spacing: 5px;
+  margin: 40px 0;
+  color: #383838;
+}
+
+.project .col-md-12 p {
+  font-size: 20px;
+  text-align: justify;
+  color: #5f5f5f;
+  line-height: 35px;
+}
+
+.project .col-md-12 .images {
+  height: auto;
+  width: auto;
+  overflow-x: auto;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  white-space: nowrap;
+}
+
+.project .col-md-12 .images img {
+  display: inline-block;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
+.project a {
+  text-decoration: none;
+  padding: 15px 20px;
+  font-size: 20px;
+  background-color: #383838;
+  color: #fff;
+  border-radius: 2px;
+  margin: 0px 10px;
+}
