@@ -821,12 +821,7 @@ fieldset {
   }
 }
 
-@media (max-width: 768px) {
-  .timeline-event-copy {
-    width: 90%;
-    left: 2em;
-  }
-}
+
 
 @media (max-width: 500px) {
   h1 {
@@ -834,10 +829,7 @@ fieldset {
     font-size: 50px;
     line-height: 50px;
   }
-  #home,
-  .container {
-    height: 600px !important;
-  }
+
   .about-border {
     width: 265px;
   }
